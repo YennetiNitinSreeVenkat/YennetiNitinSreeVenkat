@@ -1,4 +1,4 @@
-# Hi, I'm Yenneti Nitin Sree Venkat👋
+# Hi, I'm Yenneti Nitin Sree Venkat👋.
 
 🎓 B.Tech in Electrical Engineering, Hons. in Computer Science Engineering
 🔧 Enthusiast in Embedded Systems, VLSI/ASIC Design, Signal Processing  
@@ -19,9 +19,10 @@
 
 ## 🚀 Featured Projects
 
-🔌 [Smart Switchboard (Bluetooth Controlled)](https://github.com/your-username/project-name)  
-📡 [2.45 GHz Rectenna for Wireless Power Transfer](https://github.com/your-username/project-name)  
-💡 [Image Style Transfer using CNNs](https://github.com/your-username/project-name)  
+🔌 [Smart Switchboard (Bluetooth Controlled)]([https://github.com/your-username/project-name](https://github.com/YennetiNitinSreeVenkat/Smart_Switch))   
+💡 [Image Style Transfer using CNNs]([https://github.com/your-username/project-name](https://github.com/haricharan16/styltoonizing))  
+⛽ [Automated Fuel Payment System]((https://github.com/YennetiNitinSreeVenkat/Automated_Fuel_Payment_System) )] 
+📡 [2.45 GHz Rectenna for Wireless Power Transfer](https://github.com/your-username/project-name) 
 
 > 🔗 Explore all my repositories at [github.com/your-username](https://github.com/YennetiNitinSreeVenkat)
 
